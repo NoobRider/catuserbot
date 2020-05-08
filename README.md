@@ -2,7 +2,7 @@
 # FORK AT YOUR OWN RISK
 # Installing
 ### The Easy Way
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NoobRider/catuserbot)
 
 ### The Normal Way
 
